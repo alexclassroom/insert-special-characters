@@ -1,10 +1,12 @@
 # Insert Special Characters
 
+![Insert Special Characters](https://github.com/10up/insert-special-characters/blob/develop/.wordpress-org/banner-1544x500.png)
+
+[![Support Level](https://img.shields.io/badge/support-stable-blue.svg)](#support-level) ![WordPress tested up to version](https://img.shields.io/wordpress/plugin/tested/insert-special-characters?label=WordPress) [![GPLv2 License](https://img.shields.io/github/license/10up/insert-special-characters.svg)](https://github.com/10up/insert-special-characters/blob/develop/LICENSE.md) [![Dependency Review](https://github.com/10up/insert-special-characters/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/10up/insert-special-characters/actions/workflows/dependency-review.yml) [![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/insert-special-characters?logo=wordpress&logoColor=FFFFFF&label=Playground%20Demo&labelColor=3858E9&color=3858E9)](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/10up/insert-special-characters/develop/.wordpress-org/blueprints/blueprint.json)
+
+[![E2E test](https://github.com/10up/insert-special-characters/actions/workflows/cypress.yml/badge.svg)](https://github.com/10up/insert-special-characters/actions/workflows/cypress.yml) [![ESLint](https://github.com/10up/insert-special-characters/actions/workflows/eslint.yml/badge.svg)](https://github.com/10up/insert-special-characters/actions/workflows/eslint.yml) [![PHPCS](https://github.com/10up/insert-special-characters/actions/workflows/phpcs.yml/badge.svg)](https://github.com/10up/insert-special-characters/actions/workflows/phpcs.yml) [![PHP Compatibility](https://github.com/10up/insert-special-characters/actions/workflows/php-compatibility.yml/badge.svg)](https://github.com/10up/insert-special-characters/actions/workflows/php-compatibility.yml) [![CodeQL](https://github.com/10up/insert-special-characters/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/10up/insert-special-characters/actions/workflows/codeql-analysis.yml)
+
 > A Special Character inserter for the WordPress block editor (Gutenberg).
-
-[![Support Level](https://img.shields.io/badge/support-stable-blue.svg)](#support-level) ![WordPress tested up to version](https://img.shields.io/wordpress/plugin/tested/insert-special-characters?label=WordPress) [![GPLv2 License](https://img.shields.io/github/license/10up/insert-special-characters.svg)](https://github.com/10up/insert-special-characters/blob/develop/LICENSE.md) [![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/insert-special-characters?logo=wordpress&logoColor=FFFFFF&label=Playground%20Demo&labelColor=3858E9&color=3858E9)](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/10up/insert-special-characters/develop/.wordpress-org/blueprints/blueprint.json)
-
-[![E2E test](https://github.com/10up/insert-special-characters/actions/workflows/cypress.yml/badge.svg)](https://github.com/10up/insert-special-characters/actions/workflows/cypress.yml) [![ESLint](https://github.com/10up/insert-special-characters/actions/workflows/eslint.yml/badge.svg)](https://github.com/10up/insert-special-characters/actions/workflows/eslint.yml) [![PHPCS](https://github.com/10up/insert-special-characters/actions/workflows/phpcs.yml/badge.svg)](https://github.com/10up/insert-special-characters/actions/workflows/phpcs.yml) [![PHP Compatibility](https://github.com/10up/insert-special-characters/actions/workflows/php-compatibility.yml/badge.svg)](https://github.com/10up/insert-special-characters/actions/workflows/php-compatibility.yml) [![Dependency Review](https://github.com/10up/insert-special-characters/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/10up/insert-special-characters/actions/workflows/dependency-review.yml)
 
 ## Overview
 
@@ -43,8 +45,8 @@ wp.hooks.addFilter(
 
 ## Requirements
 
-* PHP 5.6+
-* [WordPress](http://wordpress.org/) 5.5+
+* PHP 7.4+
+* [WordPress](http://wordpress.org/) 6.1+
 
 ## Installation
 
